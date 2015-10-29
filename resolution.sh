@@ -25,3 +25,5 @@ xrandr --addmode LVDS-1 1920x1080
 xrandr --output LVDS-1 --mode 1920x1080
 
 
+//you can then save this file and make it into a run script. It will auto run at startup.
+
